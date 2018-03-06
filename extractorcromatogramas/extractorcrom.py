@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.5
+#! /usr/bin/env python3
 from PyPDF2 import PdfFileWriter, PdfFileReader
 
 from os import listdir
